@@ -1,4 +1,4 @@
-### Hi my name is Felipe and i'm currently working when developer 👋
+### Hi my name is Felipe and i'm currently working as a developer 👋
 ##
 <div align="center">
   <a href="https://github.com/camposfelipe">
