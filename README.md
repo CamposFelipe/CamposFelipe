@@ -1,6 +1,6 @@
 <h3> Hi my name is Felipe and I'm currently working as an Oracle developer 👋</h3>
-<h5>• I'm 21 years old.</h5>
-<h5>• Work At Ulbra</h5>
+<h5>• I'm 22 years old.</h5>
+<h5>• Work At Calçados Beira Rio</h5>
 <h5>• Graduating in Analysis and Systems Development at FADERGS.</h5>
 <h5>• Graduated in Information Technology at QI.</h5>
 <div align="center">
